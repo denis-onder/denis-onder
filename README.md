@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello 👋
+Name's Denis Onder, and I like to build stuff!
 
-<!--
-**denis-onder/denis-onder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 Comfy working with:
+```md
+1. JavaScript/TypeScript
+2. React, Angular, Vue, Svelte
+3. Node.js (Express), Python (Django), Java (Spring)
+4. MongoDB, PostgreSQL
+5. C# (Unity)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in:
+```md
+1. Rust
+2. SQL
+3. System Design/Architecture
+```
+
+📫 You can reach out to me via:
+1. [LinkedIn](https://www.linkedin.com/in/denis-onder/)
+2. Email: `denis_onder@protonmail.com`
