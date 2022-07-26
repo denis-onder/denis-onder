@@ -27,11 +27,10 @@ Name's Denis Onder, and I like to build stuff!
 4. Oracle DB
 5. AWS CodePipeline/CodeArtifact/CodeBuild/CodeDeploy
 6. Jenkins
-7. GCP
-8. Dart/Flutter
-9. React Native
-10. Redis
-11. RabbitMQ
+7. Dart/Flutter
+8. React Native
+9. Redis
+10. RabbitMQ
 ```
 
 📫 You can reach out to me via:
