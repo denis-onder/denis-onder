@@ -17,6 +17,7 @@ Name's Denis Onder, and I like to build stuff!
 1. Rust
 2. SQL
 3. System Design/Architecture
+4. SSR (Next.js/Nuxt.js)
 ```
 
 ⚡️ Other technologies I have experience with:
