@@ -1,7 +1,8 @@
 ### Hello 👋
 Name's Denis Onder, and I like to build stuff!
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=denis-onder&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 🔭 Comfy working with:
 ```md
