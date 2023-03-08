@@ -32,8 +32,9 @@ Name's Denis Onder, and I like to build stuff!
 8. React Native
 9. Redis
 10. RabbitMQ
+11. Various AI stuff (ChatGPT, OpenAI)
 ```
 
 📫 You can reach out to me via:
 - [LinkedIn](https://www.linkedin.com/in/denis-onder/)
-- Email: `denis_onder@protonmail.com`
+- Email: `denis@onder.solutions`
